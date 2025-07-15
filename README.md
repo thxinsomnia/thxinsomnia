@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm DIfta Alghifair Aryanto</h1>
+<h1 align="center">Hi there 👋, I'm Difta Alghifari Aryanto</h1>
 
 <p align="center">
   <em>👩‍💻 Informatics Student | 💡 Curious Coder | 🌏 Based in Indonesia</em>
